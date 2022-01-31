@@ -28,6 +28,12 @@
 
 **Derek Smith**: (@ConsidercloudDS) Director of Cloud Strategic Alliances and Brand at Trace3. Microsoft Certified Trainer
 
+## **Follow and Submit sessions**
+
+**Follow on Twitter** <a rel="noreferrer noopener" href="https://twitter.com/GimmeCloudTalks" target="_blank">https://twitter.com/GimmeCloudTalks</a>
+
+**Call for Speakers coming soon on Sessionize**
+
 
 <!-->
 ## Welcome to GitHub Pages
