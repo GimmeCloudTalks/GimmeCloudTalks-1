@@ -32,7 +32,7 @@
 
 **Follow on Twitter** <a rel="noreferrer noopener" href="https://twitter.com/GimmeCloudTalks" target="_blank">https://twitter.com/GimmeCloudTalks</a>
 
-**Call for Speakers coming soon on Sessionize**
+**Call for Speakers** <a rel="noreferrer noopener" href="https://sessionize.com/gimme-cloud-talks" target="_blank">https://sessionize.com/gimme-cloud-talks</a>
 
 
 <!--
