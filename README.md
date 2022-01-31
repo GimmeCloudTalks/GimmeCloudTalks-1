@@ -18,7 +18,7 @@
 
 **Dwayne Natwick**: (@DwayneNCloud) Microsoft MVP for Azure, Microsoft Certified Trainer (MCT) Regional Lead, Senior Product Manager, Migration and Security service lines at Cloudreach, an Atos company. 
 
-**Brian Gorman**: (@blgorman) MCSA, MCSD, MCT, Senior Cloud Training Architect @ Opsgility, Owner at MajorGuidanceSolutions
+**Brian Gorman**: (@blgorman) MCSA, MCSD, MCT, Owner at MajorGuidanceSolutions. Microsoft MVP.
 
 **Shannon Kuehn**: (@ShanKuehn) Senior Program Manager - Identity and Network Access Advocacy at Microsoft
 
