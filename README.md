@@ -1,6 +1,9 @@
 
 # **Welcome to Gimme Cloud Talks** 
 
+
+<img src="images/gimmecloudtalks-logo1.png" width="400">
+
 **The new location and initiative from the MW Azure and M365 user group**
 
 ## **Mission**
